@@ -1,0 +1,8 @@
+The rainbox
+
+red
+green
+blue
+black
+orange
+yellow
