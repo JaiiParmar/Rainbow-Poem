@@ -7,3 +7,4 @@ black
 orange
 White
 yellow
+Light Green
