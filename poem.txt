@@ -5,4 +5,5 @@ green
 blue
 black
 orange
+White
 yellow
